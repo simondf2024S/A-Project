@@ -97,3 +97,9 @@ In the images:
 
 These images are intended to be simple enough to put directly into presentation
 slides.
+
+## AI Use Disclosure
+
+AI assistance was used to help organize and plan the structure of this program
+and to draft this README. The project was built for a math/combinatorics
+presentation about A* search and shortest path algorithms.
